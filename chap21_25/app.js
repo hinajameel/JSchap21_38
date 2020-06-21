@@ -1,8 +1,8 @@
 ///////////Q1
-// var fName= prompt("Enter your first name: ");
-// var lName= prompt("Enter your last  name: ");
-// var fullName = fName + lName;
-// document.write("Good Day "+fullName);
+var fName= prompt("Enter your first name: ");
+var lName= prompt("Enter your last  name: ");
+var fullName = fName + lName;
+document.write("Good Day "+fullName);
 
 
 ///////////Q2:Write a program to take a user input about his
